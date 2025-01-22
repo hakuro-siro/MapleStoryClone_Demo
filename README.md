@@ -22,7 +22,7 @@
 ---
 > 兵役遂行中、自由時間を活用し、C++で開発したメイプルストーリーのクローンプロジェクトです。
 
-2023年3月~2023年5月
+2024年10月~2024年12月
 
 ##### **実行ファイル (GoogleDrive)**
 > https://drive.google.com/file/d/1bT2NLWq05KIXY063Yb_uQWjJ3FurEn5N/view?usp=drive_link
