@@ -24,9 +24,6 @@
 
 2024年10月~2024年12月
 
-##### **実行ファイル (GoogleDrive)**
-> https://drive.google.com/file/d/1bT2NLWq05KIXY063Yb_uQWjJ3FurEn5N/view?usp=drive_link
-
 ##### **Youtube**
 > https://www.youtube.com/watch?v=lF4Npd5t7gs
 
